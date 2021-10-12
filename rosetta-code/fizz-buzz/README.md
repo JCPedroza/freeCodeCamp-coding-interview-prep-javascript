@@ -14,10 +14,10 @@
 
 <ul>
   <li><a href="https://rosettacode.org/wiki/FizzBuzz">
-    Rosetta Code - FizzBuzz
+    FizzBuzz problem at Rosetta Code
   </a><li>
 
   <a href="https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/fizzbuzz">
-    FizzBuzz Problem at freeCodeCamp's Coding Interview Prep
+    FizzBuzz problem at freeCodeCamp's Coding Interview Prep
   </a>
 </ul>
