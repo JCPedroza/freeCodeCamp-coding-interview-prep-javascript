@@ -43,7 +43,6 @@ const generateFactors = (num) => {
 
 const largestPrimeFactor = (num) => {
   const factors = generateFactors(num)
-  console.log(factors)
   for (let index = factors.length - 1; index >= 0; index--) {
     if (isPrime(factors[index])) {
       return factors[index]
