@@ -2,6 +2,20 @@
 
 <p>Solutions for the problems in the freeCodeCamp's Coding Interview Prep collection, implemented in JavaScript.</p>
 
+<h3>Style</h3>
+<ul>
+  <li><a href="https://github.com/standard/standard">
+    Standard
+  </a></li>
+</ul>
+
+<h3>Testing</h3>
+<ul>
+  <li><a href="https://github.com/facebook/jest">
+    Jest
+  </a></li>
+</ul>
+
 <h3>References</h3>
 <ul>
   <li><a href="https://www.freecodecamp.org/learn/coding-interview-prep/">
