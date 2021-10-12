@@ -1,6 +1,6 @@
 <h1>freeCodeCamp's Coding Interview Prep Solutions in JavaScript</h1>
 
-<p>Solutions for the problems in the freeCodeCamp's Coding Interview Prep collection, implemented in JavaScript.</p>
+<p>Solutions for the problems included in the freeCodeCamp Coding Interview Prep collection, implemented in JavaScript.</p>
 
 <h3>Style</h3>
 <ul>
