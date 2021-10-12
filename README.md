@@ -1,4 +1,8 @@
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+<p align="center">
+  <a href="https://standardjs.com">
+    <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide">
+  </a>
+</p>
 
 <h1>freeCodeCamp's Coding Interview Prep Solutions in JavaScript</h1>
 
