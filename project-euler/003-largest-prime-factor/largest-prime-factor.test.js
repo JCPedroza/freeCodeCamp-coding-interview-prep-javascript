@@ -1,9 +1,9 @@
 const largestPrimeFactor = require('./largest-prime-factor')
 
 test('returns undefined for numbers smaller than 2', () => {
-  expect(largestPrimeFactor(-1)).toBe(undefined)
-  expect(largestPrimeFactor(0)).toBe(undefined)
-  expect(largestPrimeFactor(1)).toBe(undefined)
+  expect(largestPrimeFactor(-1)).toBeUndefined()
+  expect(largestPrimeFactor(0)).toBeUndefined()
+  expect(largestPrimeFactor(1)).toBeUndefined()
 })
 
 const [arg1, out1] = [5, 5]
