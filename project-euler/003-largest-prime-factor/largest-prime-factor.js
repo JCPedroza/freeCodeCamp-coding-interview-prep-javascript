@@ -50,3 +50,5 @@ const largestPrimeFactor = (num) => {
     }
   }
 }
+
+module.exports = largestPrimeFactor
