@@ -1,13 +1,8 @@
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 <h1>freeCodeCamp's Coding Interview Prep Solutions in JavaScript</h1>
 
 <p>Solutions for the problems included in the freeCodeCamp Coding Interview Prep collection, implemented in JavaScript.</p>
-
-<h3>Style</h3>
-<ul>
-  <li><a href="https://github.com/standard/standard">
-    Standard
-  </a></li>
-</ul>
 
 <h3>Testing</h3>
 <ul>
