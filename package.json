@@ -16,7 +16,11 @@
     "url": "git+https://github.com/JCPedroza/freeCodeCamp-coding-interview-prep-javascript.git"
   },
 
-  "keywords": [],
+  "keywords": [
+    "freeCodeCamp",
+    "project euler",
+    "rosetta code"
+  ],
 
   "author": "JCPedrozza",
 
