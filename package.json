@@ -38,8 +38,8 @@
   },
 
   "standard": {
-    "ignore": [
-      "*.test.js"
+    "env": [
+      "jest"
     ]
   }
 }
