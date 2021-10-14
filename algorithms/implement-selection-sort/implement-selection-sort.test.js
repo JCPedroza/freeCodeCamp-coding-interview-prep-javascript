@@ -1,9 +1,11 @@
-const { random } = Math
-
 const selectionSort = require('./implement-selection-sort')
 
-test('sorts empty array', () => {
+test('sorts []', () => {
   expect(selectionSort([])).toEqual([])
+})
+
+test('sorts [0]', () => {
+  expect(selectionSort([0])).toEqual([0])
 })
 
 test('sorts [5, 4, 3, 2, 1]', () => {
@@ -12,10 +14,4 @@ test('sorts [5, 4, 3, 2, 1]', () => {
 
 test('sorts [-37.3, 5.123, 0, 7]', () => {
   expect(selectionSort([0, -37.3, 7, 5.123])).toEqual([-37.3, 0, 5.123, 7])
-})
-
-test('sorts random float array of length 50', () => {
-  const rngNums = [...Array(50)].map(_ => random() * 10)
-  const rngNumsCopy = [...rngNums]
-  expect(selectionSort(rngNums)).toEqual(rngNumsCopy.sort())
 })
